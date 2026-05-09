@@ -361,20 +361,6 @@ lsb_release -a
 
 ---
 
-# 🚀 Next Episode
-
-หลังติดตั้งเสร็จ สามารถต่อยอดไปยัง:
-
-- Project Management
-- Work Package
-- Kanban Board
-- Agile / Scrum
-- Gantt Chart
-- Team Workflow
-- OpenProject API
-
----
-
 # 👨‍💻 Author
 
 KOPE-SOLUTION
