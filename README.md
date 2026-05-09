@@ -1,5 +1,7 @@
 # OpenProject on Podman + WSL Ubuntu 🚀
 
+![Title](images/Thumbnail.png)
+
 ติดตั้ง OpenProject บน WSL Ubuntu ด้วย Podman Compose สำหรับสร้างระบบ Project Management แบบ Self-Hosted
 
 เหมาะสำหรับ:
