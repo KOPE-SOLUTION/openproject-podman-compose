@@ -128,6 +128,7 @@ services:
     environment:
       OPENPROJECT_SECRET_KEY_BASE: "replace-this-with-random-secret"
       OPENPROJECT_HTTPS: "false"
+      OPENPROJECT_HOST__NAME: "localhost:8080"
 
     volumes:
       - openproject_pgdata:/var/openproject/pgdata
