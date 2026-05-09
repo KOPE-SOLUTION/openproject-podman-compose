@@ -361,17 +361,6 @@ lsb_release -a
 
 ---
 
-# 📹 YouTube Video Ideas
-
-- OpenProject Installation
-- Podman vs Docker
-- Self-Hosted Project Management
-- Jira Alternative
-- DevOps Homelab
-- Open Source Infrastructure
-
----
-
 # 🚀 Next Episode
 
 หลังติดตั้งเสร็จ สามารถต่อยอดไปยัง:
