@@ -1,6 +1,8 @@
-# OpenProject on Podman + WSL Ubuntu 🚀
+# OpenProject on Podman + WSL Ubuntu
 
 ![Title](images/Thumbnail.png)
+
+YouTube Video : https://youtu.be/Xf42hbrlpc0?si=aIXId1aE_bHzs0H1
 
 ติดตั้ง OpenProject บน WSL Ubuntu ด้วย Podman Compose สำหรับสร้างระบบ Project Management แบบ Self-Hosted
 
@@ -15,7 +17,7 @@
 
 ---
 
-# 📦 Environment
+# Environment
 - Windows 10/11
 - WSL2
 - Ubuntu 24.04 LTS
@@ -24,7 +26,7 @@
 
 ---
 
-# 🧠 What is OpenProject?
+# What is OpenProject?
 
 OpenProject คือระบบ Open Source Project Management สำหรับ:
 - Task Management
@@ -167,7 +169,7 @@ OPENPROJECT_SECRET_KEY_BASE
 
 ---
 
-# 🚀 Start OpenProject
+# Start OpenProject
 
 รัน Container:
 
